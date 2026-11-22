@@ -136,4 +136,4 @@ This makes state information more consistent and supports state-level grouping a
 
 This project demonstrates how Excel Power Query can turn raw job-listing data into structured summaries that support business questions. By analysing salary estimates by state, company size and role type, the workbook provides an overview of where data science opportunities are concentrated and how advertised salary ranges differ across categories.
 
-The project also highlights the importance of checki
+The project also highlights the importance of checking sample sizes and validating row counts after transformations and merges. These checks help ensure that insights drawn from the data are reliable.
